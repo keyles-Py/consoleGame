@@ -9,5 +9,6 @@ The number of points cannot exceed the total number of available spaces on the m
 Enjoy playing and feel free to explore the code!
 
 example of a match:
+
 ![Captura de pantalla mapa](https://github.com/user-attachments/assets/97e5c87f-f899-498e-b201-37173ebd7f75)
 
