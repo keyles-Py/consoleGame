@@ -6,6 +6,10 @@ The map is an array created using NumPy, where all elements (player, points, ene
 Game Rules:
 The map's size can range between a minimum of 4 rows by 11 columns and a maximum of 8 rows by 15 columns. These limits are set due to standard configurations. Using sizes outside of this range may cause issues during execution.
 The number of points cannot exceed the total number of available spaces on the map (numRows * numColumns) for logical reasons.
+
+Notes:
+Initial lag: For some reason, there might be a slight lag when rendering the map the first time the code is executed.
+Console "Skeleton": This console-based version is essentially the "skeleton" of another game I made, which includes a graphical interface, images, and sound. In this version, you can see the core game logic visualized purely in the terminal.
 Enjoy playing and feel free to explore the code!
 
 example of a match:
